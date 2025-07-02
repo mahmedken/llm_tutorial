@@ -1,0 +1,5 @@
+*finetuned/
+draft*
+.env
+wandb/
+__pycache__/
